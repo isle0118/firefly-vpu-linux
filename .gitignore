@@ -1,0 +1,9 @@
+*~
+*.swp
+*.bak
+*.o
+*.p
+*.a
+*.d
+android/
+config.*
